@@ -1,5 +1,7 @@
 Privacy Policy for QR Scanner
+
 Last Updated: 012-09-2023
+
 Thank you for choosing QR Scanner, provided by [Handy Apps. This Privacy Policy is intended to inform
 you about how we collect, use, and disclose your personal information when you use our Service. By
 using QR Scanner, you agree to the terms outlined in this policy.
